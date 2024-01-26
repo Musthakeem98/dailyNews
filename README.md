@@ -19,7 +19,7 @@ A minimalist Flutter app using the NewsAPI to deliver daily news headlines. Expl
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/dailyNews.git
+   git clone git@github.com:Musthakeem98/dailyNews.git
    ```
 
 2. **Navigate to the Project Directory**
