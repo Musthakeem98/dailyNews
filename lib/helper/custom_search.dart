@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:news/data/suggestions.dart';
 
-import '../pages/search_result.dart';
+import '../windows/search_result.dart';
 
 class CustomSearchDelegate extends SearchDelegate<String> {
 

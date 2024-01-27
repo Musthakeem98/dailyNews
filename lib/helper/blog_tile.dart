@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news/pages/webview.dart';
+import 'package:news/windows/webview.dart';
 
 class BlogTile extends StatelessWidget {
   final String blogName, blogTitle, blogUrl, blogUrlToImage, blogPublishedAt;

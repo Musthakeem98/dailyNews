@@ -18,7 +18,7 @@ class _CategoryNewsState extends State<CategoryNews> {
   List<Article> categoryNews = [];
   Future<void> getCategoryNews(String requiredCategory) async{
     var response = await http.get(
-      Uri.parse("https://newsapi.org/v2/top-headlines?category=$requiredCategory&country=in&apiKey=57e57303e14549bf9f7a36a65f3de434")
+      Uri.parse("https://newsapi.org/v2/top-headlines?category=$requiredCategory&country=in&apiKey=caaa65154d6c409d8d5d64c16c45df67")
     );
     var jsonData = jsonDecode(response.body);
 
