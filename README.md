@@ -2,6 +2,9 @@
 
 A minimalist Flutter app using the NewsAPI to deliver daily news headlines. Explore news by category, search for specific topics, and stay informed with the latest updates. The intuitive interface ensures a seamless news browsing experience.
 
+## Screen shot of UI
+![Screen](ReadMe_Img/ScreenShot.png "Screen")
+
 ## Features
 
 - **Category Exploration**: Browse news seamlessly categorized into Science, Business, Technology, Sports, Health, Entertainment, and General.
